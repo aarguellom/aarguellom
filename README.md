@@ -5,7 +5,7 @@ Soy estudiante de Ingeniería de Sistemas y Computación 📚💻 de la Universi
 
 🔹 Lenguajes: Python, Java
 
-🔹 Frameworks: React, Django
+🔹 Frameworks: React Native, Django
 
 🔹 Bases de datos: MySQL
 
